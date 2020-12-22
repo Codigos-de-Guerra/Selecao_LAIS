@@ -1,5 +1,7 @@
 # Projeto de Inteligência Artificial para Processo Seletivo no LAIS/UFRN
 
+Projeto de Inteligência Artifical para mostrar meus conhecimentos em machine learning e datascience,
+como parte do processo de seleção para ingressar como bolsista no LAIS/UFRN.
 
 ## Implementation and Reproduction
 
@@ -27,4 +29,3 @@ Basta entrar no link informado e baixar o arquivo `.csv`.
 Análise feito por [_Daniel Oliveira Guerra_](https://github.com/Codigos-de-Guerra) (*danieloguerra@ufrn.edu.br*), 2020.6
 
 &copy; IMD/UFRN 2020.6.
-
